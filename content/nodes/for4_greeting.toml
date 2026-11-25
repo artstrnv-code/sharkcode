@@ -1,0 +1,13 @@
+[META]
+id = "for4_greeting"
+location = "for4"
+type = "enemy.code"
+name = "С приветом"
+lore = "вдвоажяхфэ"
+tt = "Этот враг напишет тебе последовательность из символов. каждый раз, когда попадается \"п\", напиши ему \"привет\" — это он так здоровается."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "for4_greeting.py"

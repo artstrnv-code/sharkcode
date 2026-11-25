@@ -1,0 +1,12 @@
+[META]
+id = "mills_to_roofs"
+location = "mills"
+type = "entry"
+name = "Путь на Разрушенные крыши"
+lore = "Разрушенные крыши Бесконечной башни. Ответвление от Мельниц стариков."
+tt = "Перейти на Разрушенные крыши."
+
+[GAME]
+input = ""
+destination = "roofs"
+interaction = "button"

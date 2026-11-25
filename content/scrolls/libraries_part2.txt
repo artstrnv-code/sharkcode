@@ -1,0 +1,71 @@
+БИБЛИОТЕКИ (ЧАСТЬ 2)
+
+Кто-то же их создаёт. И ты так можешь! Уложишься всего в четыре файла.
+
+core.py
+Главный код. Тут пишешь все функции, классы и всё в этом духе. Например:
+
+def some():
+    print("word")
+
+__init__.py
+Тут пишешь, что твоя библиотека показывает пользователям.
+
+from .core import *
+
+Или так:
+
+from .core import some
+
+Если вдруг в библиотеке есть пара служебных функций, которые не должны оказаться у пользователя.
+Точка перед core означает импорт из того же пакета.
+
+pyproject.toml
+Этот файл должен лежать в корне проекта. Он описывает библиотеку для инструментов сборки.
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "name_lib"
+version = "0.0.0"
+authors = [
+    { name = "your name", email = "user@example.com" }
+]
+description = "description"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com"
+
+README.md
+Описание библиотеки. Пока может быть пустым.
+
+Структура:
+
+my_project/
+├── pyproject.toml
+├── README.md
+└── name_lib/
+    ├── __init__.py
+    └── core.py
+
+В корне проекта можно установить инструмент сборки:
+
+python -m pip install build
+
+И затем выполнить:
+
+python -m build
+
+В папке dist появятся исходный архив и файл .whl. Установить готовую библиотеку можно через pip, указав точный путь к .whl:
+
+python -m pip install dist/name_lib-0.0.0-py3-none-any.whl
+
+И готово! Пользуйтесь! Да import this сегодня, чтоб не писать boilerplate завтра!

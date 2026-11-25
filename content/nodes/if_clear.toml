@@ -1,0 +1,10 @@
+[META]
+id = "if_clear"
+location = "ifmostroy"
+type = "region.clear"
+name = "ИФМОСТРОЙ-14 пройден"
+lore = "Фабрика функций больше не пугает."
+tt = """Итоги региона."""
+
+[GAME]
+input = ""

@@ -1,0 +1,12 @@
+[META]
+id = "for4_to_field"
+location = "field"
+type = "entry"
+name = "Путь к Великой пашне"
+lore = "Среди полей тянется дорога."
+tt = "Войти в Великую пашню."
+
+[GAME]
+input = ""
+destination = "field"
+interaction = "button"

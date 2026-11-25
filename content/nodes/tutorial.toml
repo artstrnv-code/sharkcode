@@ -1,0 +1,11 @@
+# SHARKCODE node format v1. Поля META описывают узел, GAME — контракт.
+[META]
+id = "tutorial"
+location = "variable_valley"
+type = "scroll"
+name = "Учебная скрижаль"
+tt = "Прочитай скрижаль по желанию."
+lore = "База"
+
+[GAME]
+input = ""

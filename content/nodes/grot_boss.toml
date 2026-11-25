@@ -1,0 +1,15 @@
+[META]
+id = "grot_boss"
+location = "grot_faith"
+type = "enemy.project"
+name = "Изучатель аспектов"
+lore = "Говорят, что из той силы, что осталась в воздухе... можно собирать драконов."
+tt = "Создайте полноценную библиотеку с функциями dragon, fire, python. Что они делают — решай сам. Каждая должна принимать аргументы и что-то возвращать через return. Изучатель сам вызовет твои функции. Это творческое задание."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "grot_boss.py"
+param.pep8.coef = 1.0
+param.strokes.coef = 1.0

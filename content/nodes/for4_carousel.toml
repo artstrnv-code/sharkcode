@@ -1,0 +1,13 @@
+[META]
+id = "for4_carousel"
+location = "for4"
+type = "enemy.code"
+name = "Любитель каруселей"
+lore = "Вкладывай одно в другое! карусели на каруселях!"
+tt = "Напиши код, который 9 раз выведет \"привет\", 6 раз выведет \"пока\" и 3 раза \"ппаоа\" (суммарно)."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "for4_carousel.py"

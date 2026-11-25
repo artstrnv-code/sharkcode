@@ -1,0 +1,13 @@
+[META]
+id = "mills_scalar"
+location = "mills"
+type = "enemy.code"
+name = "Скалярный человек"
+lore = "Одна запятая решает всё."
+tt = "Создай кортеж из одного числа и сохрани его в переменной. Ничего выводить не нужно."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = ""

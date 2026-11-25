@@ -1,0 +1,21 @@
+# SHARKCODE node format v1. Поля META описывают узел, GAME — контракт.
+[META]
+id = "chest"
+location = "variable_valley"
+type = "chest.code"
+name = "Старинный сундук"
+tt = "задайте переменные a = 10, b = \"hello\". (Именна обязательно такие) поменяйте их местами (a = \"hello\", b = 10). ничего не выводите"
+lore = "Он ожидает вас..."
+
+[GAME]
+input = ""
+wait_output = ""
+
+[RANKING]
+validator = "chest.py"
+
+[RANKING.param.pep8]
+coef = 1.0
+
+[RANKING.param.strokes]
+coef = 1.0

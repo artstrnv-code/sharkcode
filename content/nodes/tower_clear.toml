@@ -1,0 +1,10 @@
+[META]
+id = "tower_clear"
+location = "tower"
+type = "region.clear"
+name = "Итоги Бесконечной башни"
+lore = "Бесконечность закончилась."
+tt = "Завершить регион."
+
+[GAME]
+input = ""

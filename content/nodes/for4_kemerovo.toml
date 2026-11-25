@@ -1,0 +1,14 @@
+[META]
+id = "for4_kemerovo"
+location = "for4"
+type = "enemy.code"
+name = "Человек из Кемерова"
+lore = "все просто. мне надо от тебя, чтоб ты посчитал сумму всех четных чисел от одного и до сотни. понял?"
+tt = "Посчитай сумму четных чисел в диапазоне 1-100, и 100 — включительно."
+
+[GAME]
+input = ""
+
+[RANKING]
+computation_required = true
+validator = "for4_kemerovo.py"

@@ -1,0 +1,10 @@
+[META]
+id = "for4_tutorial_notes1"
+location = "for4"
+type = "scroll"
+name = "Заметки №1"
+lore = "Необязательная обучающая скрижаль."
+tt = "Прочитать скрижаль в Кодексе знаний."
+
+[GAME]
+input = ""

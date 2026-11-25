@@ -1,0 +1,12 @@
+[META]
+id = "field_to_if"
+location = "field"
+type = "entry"
+name = "ИФМОСТРОЙ-14"
+lore = "Новая дорога из Великой пашни к фабрике функций."
+tt = """Войти в ИФМОСТРОЙ-14."""
+
+[GAME]
+input = ""
+destination = "ifmostroy"
+interaction = "button"

@@ -1,0 +1,10 @@
+[META]
+id = "roof_entry"
+location = "roofs"
+type = "empty"
+name = "Разрушенные крыши"
+lore = "Разрушенные крыши Бесконечной башни."
+tt = "Начало региона."
+
+[GAME]
+input = ""

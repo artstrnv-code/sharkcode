@@ -1,0 +1,40 @@
+{
+  "attempt_id": 47,
+  "cleared": [],
+  "codex": [
+    "Рыцари: Условия",
+    "Рыцари: Переменные",
+    "Рыцари: Комментарии и длины",
+    "Библиотеки (часть 1)",
+    "PEP8 — письмо",
+    "Рыцари: Перевод строки",
+    "Лучшее присваивание",
+    "База",
+    "Библиотеки (часть 2)",
+    "Рыцари: Пробелы"
+  ],
+  "current_location": "variable_valley",
+  "ever_visited_mills": false,
+  "field_discovered": false,
+  "finished_reports": {},
+  "for4_discovered": false,
+  "grot": true,
+  "hp": 5,
+  "if_discovered": false,
+  "inventory": {
+    "double_shield": 2
+  },
+  "knights_unlocked": true,
+  "mills_discovered": false,
+  "new_scrolls_run": [],
+  "new_treasures_run": [],
+  "quiz_attempts": {},
+  "ranks": {},
+  "rare_won_run": false,
+  "river_discovered": false,
+  "roofs_discovered": false,
+  "run_seed": 1795190699931773100,
+  "save_schema": 3,
+  "tower_discovered": false,
+  "valley_runs": 1
+}

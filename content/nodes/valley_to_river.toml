@@ -1,0 +1,13 @@
+[META]
+id = "valley_to_river"
+location = "variable_valley"
+type = "entry"
+name = "Путь к Реке святого леса"
+lore = "Последний шаг перед новой главой."
+tt = "Перейти к Реке святого леса? Назад вернуться нельзя."
+
+[GAME]
+destination = "holy_forest_river"
+interaction = "button"
+# Для интерактивного перехода в других нодах можно задать interaction = "code"
+# и wait_output = "go\n".

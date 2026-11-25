@@ -1,0 +1,10 @@
+[META]
+id = "if_to_oop"
+location = "ifmostroy"
+type = "empty"
+name = "НИИ ВЗ и ООП"
+lore = "Будущая ветка: классы и исключения."
+tt = """Путь к классам и исключениям пока в разработке."""
+
+[GAME]
+input = ""

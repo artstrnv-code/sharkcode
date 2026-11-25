@@ -1,0 +1,10 @@
+[META]
+id = "mills_clear"
+location = "mills"
+type = "region.clear"
+name = "Итоги Мельниц стариков"
+lore = "Мельницы замолчали."
+tt = "Завершить регион."
+
+[GAME]
+input = ""

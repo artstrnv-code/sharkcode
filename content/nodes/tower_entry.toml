@@ -1,0 +1,10 @@
+[META]
+id = "tower_entry"
+location = "tower"
+type = "empty"
+name = "Бесконечная башня"
+lore = "Петля над бесконечностью."
+tt = "Начало региона."
+
+[GAME]
+input = ""

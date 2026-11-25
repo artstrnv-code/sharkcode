@@ -1,0 +1,12 @@
+[META]
+id = "grot_lover"
+location = "grot_faith"
+type = "enemy.quiz"
+name = "Любитель всякого"
+lore = "В коде написано."
+tt = "В коде написано:\nfrom test_lib import something\n\nФункция не принимает аргументов. Как правильно вызвать something?"
+
+[GAME]
+input = ""
+quiz_options = ["something", "something()", "test_lib.something", "test_lib.something()"]
+correct_answer = 1

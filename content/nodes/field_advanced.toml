@@ -1,0 +1,10 @@
+[META]
+id = "field_advanced"
+location = "field"
+type = "scroll"
+name = "Великая пашня: Злоба"
+lore = "Учебная скрижаль."
+tt = "Прочитать скрижаль."
+
+[GAME]
+input = ""

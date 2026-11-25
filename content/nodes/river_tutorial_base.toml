@@ -1,0 +1,10 @@
+[META]
+id = "river_tutorial_base"
+location = "holy_forest_river"
+type = "scroll"
+name = "Река святого леса: Ветвления"
+lore = "if, elif, else и input()"
+tt = "Прочитай скрижаль по желанию."
+
+[GAME]
+input = ""

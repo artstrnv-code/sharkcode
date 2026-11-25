@@ -1,0 +1,21 @@
+# SHARKCODE node format v1. Поля META описывают узел, GAME — контракт.
+[META]
+id = "wise"
+location = "variable_valley"
+type = "enemy.code"
+name = "Мудрец"
+tt = "Генерируется с учётом seed."
+lore = "У него много мудрости! Но не интеллекта."
+
+[GAME]
+input = ""
+
+[RANKING]
+computation_required = true
+validator = "wise.py"
+
+[RANKING.param.pep8]
+coef = 1.0
+
+[RANKING.param.strokes]
+coef = 1.0

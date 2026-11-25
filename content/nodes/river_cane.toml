@@ -1,0 +1,13 @@
+[META]
+id = "river_cane"
+location = "holy_forest_river"
+type = "enemy.code"
+name = "Человек с тростью"
+lore = "Я люблю сложные задачи"
+tt = "Он введёт 3 числа. Если все они больше 10, напиши ему \"это сложная задача\". В остальных случаях напиши \"легкотня\"."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "river_cane.py"

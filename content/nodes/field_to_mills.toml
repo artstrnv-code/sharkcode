@@ -1,0 +1,12 @@
+[META]
+id = "field_to_mills"
+location = "field"
+type = "entry"
+name = "Дорога к Мельницам стариков"
+lore = "Мельницы ждут."
+tt = "Перейти к Мельницам стариков."
+
+[GAME]
+input = ""
+destination = "mills"
+interaction = "button"

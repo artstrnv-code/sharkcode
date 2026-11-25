@@ -1,0 +1,10 @@
+[META]
+id = "tower_tutorial_while"
+location = "tower"
+type = "scroll"
+name = "Бесконечная башня: Циклы while"
+lore = "Учебная скрижаль."
+tt = "Прочитай скрижаль по желанию."
+
+[GAME]
+input = ""

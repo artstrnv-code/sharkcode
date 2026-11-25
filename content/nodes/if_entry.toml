@@ -1,0 +1,10 @@
+[META]
+id = "if_entry"
+location = "ifmostroy"
+type = "empty"
+name = "ИФМОСТРОЙ-14"
+lore = "Фабрика, где код собирают в функции."
+tt = """Начало региона."""
+
+[GAME]
+input = ""

@@ -1,0 +1,10 @@
+[META]
+id = "river_tutorial_comparison"
+location = "holy_forest_river"
+type = "scroll"
+name = "Сравнение"
+lore = "Операторы сравнения"
+tt = "Прочитай скрижаль по желанию."
+
+[GAME]
+input = ""

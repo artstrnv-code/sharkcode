@@ -1,0 +1,21 @@
+# SHARKCODE node format v1. Поля META описывают узел, GAME — контракт.
+[META]
+id = "counter"
+location = "variable_valley"
+type = "enemy.code"
+name = "Счётчик"
+tt = "Номиналы: пятак — 5, четвертак — 4, серебряник — 50, золотник — 100."
+lore = "Он любит считать монеты. Посчитай их."
+
+[GAME]
+input = ""
+
+[RANKING]
+computation_required = true
+validator = "counter.py"
+
+[RANKING.param.pep8]
+coef = 1.0
+
+[RANKING.param.strokes]
+coef = 1.0

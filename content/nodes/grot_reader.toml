@@ -1,0 +1,16 @@
+[META]
+id = "grot_reader"
+location = "grot_faith"
+type = "enemy.code"
+name = "Любитель чтения"
+lore = "Я люблю читать!"
+tt = "В test_lib есть read, write, learn. Каждая принимает строку \"True\" или \"False\", преобразует её в bool и возвращает True или False. Получи одно значение через input(), передай его функции learn и выведи возвращённое. Бонус за краткость; строки import в подсчёте не учитываются. Первая ошибка не отнимает HP."
+
+[GAME]
+input = ""
+wait_output = ""
+
+[RANKING]
+validator = "grot_reader.py"
+param.pep8.coef = 1.0
+param.strokes.coef = 1.0

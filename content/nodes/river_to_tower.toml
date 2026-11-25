@@ -1,0 +1,12 @@
+[META]
+id = "river_to_tower"
+location = "holy_forest_river"
+type = "entry"
+name = "Вход в Бесконечную башню"
+lore = "Впереди всё повторяется."
+tt = "Войти в Бесконечную башню."
+
+[GAME]
+input = ""
+destination = "tower"
+interaction = "button"

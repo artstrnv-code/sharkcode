@@ -1,0 +1,13 @@
+[META]
+id = "for4_boss"
+location = "for4"
+type = "enemy.code"
+name = "Страж бронзового змия"
+lore = "Трепещи от моей ультрагипермашины!"
+tt = "Выведи всю таблицу умножения до 20: все результаты a*b, где a и b от 1 до 20. Повторы выводятся повторно."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "for4_boss.py"

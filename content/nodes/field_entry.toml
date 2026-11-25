@@ -1,0 +1,10 @@
+[META]
+id = "field_entry"
+location = "field"
+type = "empty"
+name = "Великая пашня"
+lore = "Пора учиться работать со списками."
+tt = "Начало региона."
+
+[GAME]
+input = ""

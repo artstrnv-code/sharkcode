@@ -1,0 +1,10 @@
+[META]
+id = "river_tutorial_logic"
+location = "holy_forest_river"
+type = "scroll"
+name = "Операторы логики"
+lore = "and, or, not"
+tt = "Прочитай скрижаль по желанию."
+
+[GAME]
+input = ""

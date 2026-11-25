@@ -1,0 +1,16 @@
+[META]
+id = "tower_mimic_surrender"
+location = "tower"
+type = "chest.code"
+name = "Я повелеваю сдаться"
+lore = "Сундук приказывает тебе сдаться. Это необязательная задача со звёздочкой."
+tt = "Выведи «я не сдамся» ровно 100 раз. Затем спроси «ты еще настаиваешь?» через аргумент input(). Если ответ «нет» — больше ничего не делай. Если ответ «да» — выведи «сдаюсь»."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "tower_mimic_surrender.py"
+
+[REWARD]
+item = "justice_spear"

@@ -1,0 +1,13 @@
+[META]
+id = "mills_specialties"
+location = "mills"
+type = "enemy.code"
+name = "Специалист по СПЕциальностям"
+lore = "Считай внимательнее."
+tt = "Прочитай шесть целых чисел шестью отдельными input() и выведи их сумму."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = ""

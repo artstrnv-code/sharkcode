@@ -1,0 +1,10 @@
+[META]
+id = "roof_clear"
+location = "roofs"
+type = "region.clear"
+name = "Разрушенные крыши пройдены"
+lore = ""
+tt = "Итоги региона."
+
+[GAME]
+input = ""

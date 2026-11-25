@@ -1,0 +1,17 @@
+[META]
+id = "for4_accountant"
+location = "for4"
+type = "enemy.code"
+name = "Счетовод"
+lore = "прошу... никаких чисел"
+tt = "Он в input скажет тебе строку из чисел. тебе надо найти сумму каждого из них. ВАЖНО: не делай int(input()) или float(input()) вне цикла!"
+
+[GAME]
+input = ""
+
+[RANKING]
+computation_required = true
+validator = "for4_accountant.py"
+
+[REWARD]
+item = "skovyl"

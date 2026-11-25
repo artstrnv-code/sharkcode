@@ -1,0 +1,10 @@
+[META]
+id = "mills_tuples"
+location = "mills"
+type = "scroll"
+name = "Мельницы стариков: Кортежи"
+lore = "Учебная скрижаль."
+tt = "Прочитать скрижаль о кортежах."
+
+[GAME]
+input = ""

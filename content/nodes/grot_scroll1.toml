@@ -1,0 +1,10 @@
+[META]
+id = "grot_scroll1"
+location = "grot_faith"
+type = "scroll"
+name = "Библиотеки (часть 1)"
+lore = "Учебная скрижаль об импорте."
+tt = "Прочитай скрижаль о способах импорта библиотек."
+
+[GAME]
+input = ""

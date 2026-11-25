@@ -1,0 +1,10 @@
+[META]
+id = "river_clear"
+location = "holy_forest_river"
+type = "region.clear"
+name = "Река святого леса завершена"
+lore = "Итоги региона"
+tt = "Итоги прохождения Реки святого леса."
+
+[GAME]
+input = ""

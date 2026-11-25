@@ -1,0 +1,10 @@
+[META]
+id = "for4_tutorial_advanced"
+location = "for4"
+type = "scroll"
+name = "Продвинутый: Переменные"
+lore = "Необязательная скрижаль из оригинального SnakeCode."
+tt = "Дополнительные сведения о переменных."
+
+[GAME]
+input = ""

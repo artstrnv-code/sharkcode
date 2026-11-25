@@ -1,0 +1,10 @@
+[META]
+id = "mills_to_matrix"
+location = "mills"
+type = "empty"
+name = "Сломанная матрица"
+lore = "Будущий путь: socket и httpx; затем Мир света (duckduckgo_search) или Восьмое логово первозмия (bs4)."
+tt = "Путь будет открыт после разработки соответствующего региона."
+
+[GAME]
+input = ""

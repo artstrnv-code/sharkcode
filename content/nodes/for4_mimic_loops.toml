@@ -1,0 +1,16 @@
+[META]
+id = "for4_mimic_loops"
+location = "for4"
+type = "chest.code"
+name = "Специалист по циклам"
+lore = "Сундук оказался мимиком. Это задача со звёздочкой; можно вернуться на карту."
+tt = "Выведи числа от 1 до 100 включительно. Не используй for. Примечание: вывести числа можно в любом виде и форме."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "for4_mimic_loops.py"
+
+[REWARD]
+item = "justice_sword"

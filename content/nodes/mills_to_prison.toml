@@ -1,0 +1,10 @@
+[META]
+id = "mills_to_prison"
+location = "mills"
+type = "empty"
+name = "Тюрьма империала"
+lore = "Будущий путь: math, затем Глубины тюрьмы (numpy), Ад (pandas) или Осклизлые дорожки (PyTorch)."
+tt = "Путь будет открыт после разработки соответствующего региона."
+
+[GAME]
+input = ""

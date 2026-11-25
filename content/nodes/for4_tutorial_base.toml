@@ -1,0 +1,10 @@
+[META]
+id = "for4_tutorial_base"
+location = "for4"
+type = "scroll"
+name = "4 4: Основы циклов for"
+lore = "Учебная скрижаль"
+tt = "Изучи цикл for, перебор строк и range()."
+
+[GAME]
+input = ""

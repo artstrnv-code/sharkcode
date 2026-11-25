@@ -1,0 +1,10 @@
+[META]
+id = "valley_clear"
+location = "variable_valley"
+type = "region.clear"
+name = "Долина переменных завершена"
+lore = "Эхозмий побеждён."
+tt = "Итоги прохождения Долины переменных."
+
+[GAME]
+input = ""

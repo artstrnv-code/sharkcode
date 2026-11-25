@@ -1,0 +1,10 @@
+[META]
+id = "field_clear"
+location = "field"
+type = "region.clear"
+name = "Итоги Великой пашни"
+lore = "Списки рассортированы."
+tt = "Завершить регион."
+
+[GAME]
+input = ""

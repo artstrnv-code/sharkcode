@@ -1,0 +1,10 @@
+[META]
+id = "grot_scroll2"
+location = "grot_faith"
+type = "scroll"
+name = "Библиотеки (часть 2)"
+lore = "Кто-то же их создаёт. И ты так можешь!"
+tt = "Прочитай скрижаль о создании Python-пакетов."
+
+[GAME]
+input = ""

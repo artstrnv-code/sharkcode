@@ -1,0 +1,13 @@
+[META]
+id = "mills_lovelace"
+location = "mills"
+type = "enemy.code"
+name = "Чёрный ловелас"
+lore = "Даже тройка не вечна."
+tt = "Получи три числа отдельными input(). Четвёртым input() получи замену для всех трёх. Выведи кортеж из трёх копий четвёртого значения."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = ""

@@ -1,0 +1,10 @@
+[META]
+id = "grot_clear"
+location = "grot_faith"
+type = "region.clear"
+name = "Грот веры завершён"
+lore = "Путь к Реке святого леса открыт."
+tt = "Итоги прохождения Грота веры."
+
+[GAME]
+input = ""

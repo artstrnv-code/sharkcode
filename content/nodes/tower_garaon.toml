@@ -1,0 +1,13 @@
+[META]
+id = "tower_garaon"
+location = "tower"
+type = "enemy.code"
+name = "Гараон, хранитель эхоаспекта"
+lore = "\"звенит в ушах…\""
+tt = "В коде уже есть x = True и while x == True:. Напиши \"бух\" 5 раз и выйди из цикла. Нельзя использовать for, второй while или менять x ради выхода."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "tower_garaon.py"

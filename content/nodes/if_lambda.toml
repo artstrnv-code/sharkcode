@@ -1,0 +1,10 @@
+[META]
+id = "if_lambda"
+location = "ifmostroy"
+type = "scroll"
+name = "Скрижаль: Лямбды"
+lore = "Короткая функция с одним выражением."
+tt = """Прочти скрижаль «Лямбды»."""
+
+[GAME]
+input = ""

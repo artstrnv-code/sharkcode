@@ -1,0 +1,10 @@
+[META]
+id = "if_functions"
+location = "ifmostroy"
+type = "scroll"
+name = "Скрижаль: Функция"
+lore = "Объявление def, аргументы, значения по умолчанию и return."
+tt = """Прочти скрижаль «Функция»."""
+
+[GAME]
+input = ""

@@ -1,0 +1,10 @@
+[META]
+id = "river_entry"
+location = "holy_forest_river"
+type = "empty"
+name = "Река святого леса"
+lore = "Ты стоишь у Реки святого леса. Дальше — ввод и ветвления."
+tt = "Переходи к первой скрижали Реки."
+
+[GAME]
+input = ""

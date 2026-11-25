@@ -1,0 +1,13 @@
+[META]
+id = "river_mumbler"
+location = "holy_forest_river"
+type = "enemy.code"
+name = "Мямля"
+lore = "#}#«#}&"
+tt = "Он скажет в input либо \"привет!\", либо что-то странное. Если он поздоровался — выведи \"hi\", во втором случае — \"hgfhgf\"."
+
+[GAME]
+input = ""
+
+[RANKING]
+validator = "river_mumbler.py"

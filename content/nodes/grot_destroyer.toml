@@ -1,0 +1,16 @@
+[META]
+id = "grot_destroyer"
+location = "grot_faith"
+type = "enemy.code"
+name = "Уничтожитель библиотек"
+lore = "Не оставлю от них и следа!"
+tt = "Вызови из test_lib функции something, roar, sad. Каждая выводит строку. Запрещено использовать символ точки (.) в исходном коде."
+
+[GAME]
+input = ""
+wait_output = "some evil\nroar\nsad\n"
+
+[RANKING]
+validator = "grot_destroyer.py"
+param.pep8.coef = 1.0
+param.strokes.coef = 1.0

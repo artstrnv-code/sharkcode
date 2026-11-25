@@ -1,0 +1,11 @@
+[META]
+id = "grot"
+location = "variable_valley"
+type = "entry"
+name = "Тайный проход в Грот"
+lore = "Открытый секретным приветствием путь."
+tt = "Войти в Грот веры? Возврата до следующего забега не будет."
+
+[GAME]
+destination = "grot_faith"
+interaction = "button"

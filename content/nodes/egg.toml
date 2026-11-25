@@ -1,0 +1,22 @@
+# SHARKCODE node format v1. Поля META описывают узел, GAME — контракт.
+[META]
+id = "egg"
+location = "variable_valley"
+type = "enemy.code"
+name = "Яйцо змей"
+tt = "Выведи в консоль \"бух бух бух \" (с пробелом в конце)."
+lore = "Он стучит своим хвостом, когда стучишь ты!"
+
+[GAME]
+input = ""
+wait_output = "бух бух бух "
+
+[RANKING]
+text_tolerance = true
+validator = "egg.py"
+
+[RANKING.param.pep8]
+coef = 1.0
+
+[RANKING.param.strokes]
+coef = 1.0

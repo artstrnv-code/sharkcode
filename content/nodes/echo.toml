@@ -1,0 +1,22 @@
+# SHARKCODE node format v1. Поля META описывают узел, GAME — контракт.
+[META]
+id = "echo"
+location = "variable_valley"
+type = "enemy.code"
+name = "Эхозмий"
+tt = "Выведи 7 строк: 'бух', 'бухбух', 'бухбухбух' и так далее до семи повторов."
+lore = "Он повторяет всё, что слышит, но делает это с задержкой…"
+
+[GAME]
+input = ""
+wait_output = "бух\nбухбух\nбухбухбух\nбухбухбухбух\nбухбухбухбухбух\nбухбухбухбухбухбух\nбухбухбухбухбухбухбух"
+
+[RANKING]
+text_tolerance = true
+validator = "echo.py"
+
+[RANKING.param.pep8]
+coef = 1.0
+
+[RANKING.param.strokes]
+coef = 1.0

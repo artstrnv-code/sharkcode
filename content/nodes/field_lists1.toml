@@ -1,0 +1,10 @@
+[META]
+id = "field_lists1"
+location = "field"
+type = "scroll"
+name = "Великая пашня: Списки (часть 1)"
+lore = "Учебная скрижаль."
+tt = "Прочитать скрижаль."
+
+[GAME]
+input = ""

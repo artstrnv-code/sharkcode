@@ -1,0 +1,16 @@
+[META]
+id = "field_new_chest"
+location = "field"
+type = "chest.code"
+name = "Нераспаханный сундук"
+lore = "В тебе сокрыта древняя сила."
+tt = "Создай список massive так, чтобы massive[3][2][1] возвращало 7. Ничего выводить не нужно."
+
+[GAME]
+input = ""
+
+[REWARD]
+item = "gold_idol"
+
+[RANKING]
+validator = ""

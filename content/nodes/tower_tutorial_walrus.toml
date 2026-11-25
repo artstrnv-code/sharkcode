@@ -1,0 +1,10 @@
+[META]
+id = "tower_tutorial_walrus"
+location = "tower"
+type = "scroll"
+name = "Моржовое присваивание"
+lore = "Необязательная обучающая скрижаль."
+tt = "Прочитать скрижаль в Кодексе знаний."
+
+[GAME]
+input = ""

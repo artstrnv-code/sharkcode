@@ -1,0 +1,10 @@
+[META]
+id = "mills_dicts"
+location = "mills"
+type = "scroll"
+name = "Мельницы стариков: Словари"
+lore = "Учебная скрижаль."
+tt = "Прочитать скрижаль о словарях."
+
+[GAME]
+input = ""

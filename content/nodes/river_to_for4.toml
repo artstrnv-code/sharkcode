@@ -1,0 +1,11 @@
+[META]
+id = "river_to_for4"
+location = "holy_forest_river"
+type = "entry"
+name = "Путь в 4 4"
+lore = "Река осталась позади."
+tt = "Перейти в регион «4 4»? Обратного пути нет."
+
+[GAME]
+destination = "for4"
+interaction = "button"

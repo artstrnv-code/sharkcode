@@ -1,0 +1,4 @@
+id = "debug_gun"
+name = "Защитное ружьё"
+description = "Открывает Run Debug: номер теста, входные данные, вывод и ошибку Python."
+persistent = true

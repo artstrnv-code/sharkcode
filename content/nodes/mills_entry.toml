@@ -1,0 +1,10 @@
+[META]
+id = "mills_entry"
+location = "mills"
+type = "empty"
+name = "Мельницы стариков"
+lore = "Старые мельницы перемалывают всё, даже знания."
+tt = "Начало региона."
+
+[GAME]
+input = ""

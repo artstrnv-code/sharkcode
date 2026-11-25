@@ -1,0 +1,10 @@
+[META]
+id = "for4_clear"
+location = "for4"
+type = "region.clear"
+name = "4 4 завершена"
+lore = "Итоги региона"
+tt = "Результаты прохождения региона «4 4»."
+
+[GAME]
+input = ""

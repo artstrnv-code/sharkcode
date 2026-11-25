@@ -1,0 +1,25 @@
+# SHARKCODE node format v1. Поля META описывают узел, GAME — контракт.
+[META]
+id = "statue"
+location = "variable_valley"
+type = "enemy.code"
+name = "Статуя"
+tt = "Посчитай (1+2+3+4+5+6+7+7+8+8+9+10+11+12+13+14)**11."
+lore = "Редкий враг. Посчитай мне мой пример!"
+
+[GAME]
+input = ""
+wait_output = "74300837068800000000000"
+
+[RANKING]
+computation_required = true
+validator = "statue.py"
+
+[RANKING.param.pep8]
+coef = 1.0
+
+[RANKING.param.strokes]
+coef = 1.0
+
+[REWARD]
+item = "double_shield"

@@ -1,0 +1,12 @@
+[META]
+id = "tower_to_field"
+location = "field"
+type = "entry"
+name = "Путь к Великой пашне"
+lore = "За Башней раскинулись поля."
+tt = "Войти в Великую пашню."
+
+[GAME]
+input = ""
+destination = "field"
+interaction = "button"

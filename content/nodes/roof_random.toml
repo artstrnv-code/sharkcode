@@ -1,0 +1,10 @@
+[META]
+id = "roof_random"
+location = "roofs"
+type = "scroll"
+name = "Скрижаль: Библиотеки. random"
+lore = "Библиотеки. random."
+tt = "Прочти скрижаль."
+
+[GAME]
+input = ""

@@ -1,0 +1,11 @@
+# SHARKCODE node format v1. Поля META описывают узел, GAME — контракт.
+[META]
+id = "card_player"
+location = "variable_valley"
+type = "enemy.quiz"
+name = "Игрок в карты"
+tt = "Что выведет код?\n\nprint(1, end=\"\")\nprint()\nprint(13455y31, end=\"\")\nprint(\"hello\")"
+lore = "Враг-тест: вместо написания кода нужно понять, что он сделает."
+
+[GAME]
+input = ""
